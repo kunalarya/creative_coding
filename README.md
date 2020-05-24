@@ -1,4 +1,4 @@
-# Generative Art
+# Creating Coding
 
 Miscellaneous experiments in generating moving art/visuals.
 
